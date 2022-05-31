@@ -1,4 +1,4 @@
-# Station-M-t-orologique-embarquee
+# Station-Meteorologique-embarquee
 L'objectif était de réaliser une station météorologique embarquée avec une carte Arduino et des capteurs en langage C++ (sur Visual Studio Code).
 
 Le matériel défini pour valider une première version du système est le suivant : · Microcontrôleur : AVR ATmega328 qui est intégré à la carte Arduino qui servira à concevoir le prototype. · Composants :
